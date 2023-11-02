@@ -1,0 +1,85 @@
+﻿@model QLDiem.Models.HocSinh
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/LayoutUser.cshtml";
+
+}
+
+<h1>Edit</h1>
+
+<h4>HocSinh</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <a>Mã học sinh</a>
+                <input asp-for="MaHs" class="form-control" />
+                <span asp-validation-for="MaHs" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Tên học sinh</a>                
+                <input asp-for="TenHs" class="form-control" />
+                <span asp-validation-for="TenHs" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Lớp</a>
+                <select asp-for="Malop" class="form-control" asp-items="ViewBag.Malop"></select>
+                <span asp-validation-for="Malop" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Ngày sinh</a>
+                <input asp-for="Ngaysinh" class="form-control" />
+                <span asp-validation-for="Ngaysinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Giới tính</a>
+                <input asp-for="Gioitinh" class="form-control" />
+                <span asp-validation-for="Gioitinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Họ tên bố</a>
+                <input asp-for="HotenBo" class="form-control" />
+                <span asp-validation-for="HotenBo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Họ tên mẹ</a>
+                <input asp-for="HotenMe" class="form-control" />
+                <span asp-validation-for="HotenMe" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Địa chỉ</a>
+                <input asp-for="Diachi" class="form-control" />
+                <span asp-validation-for="Diachi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Điện thoại</a>
+                <input asp-for="Dienthoai" class="form-control" />
+                <span asp-validation-for="Dienthoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Ngày vào đoàn</a>
+                <input asp-for="NgayvaoDoan" class="form-control" />
+                <span asp-validation-for="NgayvaoDoan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Ghi chú</a>
+                <input asp-for="Ghichu" class="form-control" />
+                <span asp-validation-for="Ghichu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

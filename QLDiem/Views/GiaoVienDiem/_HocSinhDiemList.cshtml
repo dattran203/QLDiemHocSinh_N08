@@ -1,0 +1,143 @@
+﻿@{
+    ViewBag.CurrentPage = ViewBag.CurrentPage; // Truyền giá trị ViewBag.CurrentPage vào PartialView
+}
+@model IEnumerable<QLDiem.Models.HocSinhDiem>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên học sinh
+            </th>
+            <th>
+                Tên môn
+            </th>
+            <th>
+                Điểm 15p
+            </th>
+            <th>
+                Điểm miệng
+            </th>
+            <th>
+                Điểm 1 tiết
+            </th>
+            <th>
+                Điểm thi giữa kỳ
+            </th>
+            <th>
+                Điểm thi học kỳ
+            </th>
+            <th>
+                Kỳ học
+            </th>
+            <th>
+                Năm học
+            </th>
+            <th>
+                Điểm trung bình môn
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="tblDiem">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MahocsinhNavigation.TenHs)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MamonNavigation.Tenmon)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Diem15p)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DiemMieng)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Diem1Tiet)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DiemGk)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DiemthiHk)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kyhoc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NamHocIDNavigation.NamHoc1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DiemTbm)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new {@item.MahocsinhNavigation.MaHs,@item.Mamon,@item.Kyhoc}) |
+                    @Html.ActionLink("Details", "Details", new {@item.MahocsinhNavigation.MaHs,@item.Mamon,@item.Kyhoc}) |
+                    @Html.ActionLink("Delete", "Delete", new {@item.MahocsinhNavigation.MaHs,@item.Mamon,@item.Kyhoc})
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@* <div class="text-center">
+    @if (ViewBag.pageCount > 1)
+    {
+        <ul class="pagination">
+            @for (int i = 1; i <= ViewBag.pageCount; i++)
+            {
+                <li class="page-item" data-page="@i" data-page-size="@ViewBag.PageSize" data-ma-mon="@ViewBag.MaMon">
+                    <a class="page-link" onclick="loadPage(this)" style="cursor:pointer">@i</a>
+                </li>
+
+            }
+        </ul>
+    }
+</div> *@
+@* @section Scripts{
+    <script>
+        $("li").click(function (e) {
+            var id = $(this).attr("id");
+            if (id === "0") {
+                window.location.href = "/HocSinhDiem/Index"
+            }
+            $.ajax({
+                url: "/HocSinhDiem/DiemByMaMon", // Đảm bảo đặt đúng URL của action
+                data: { mid: id },
+                success: function (response) {
+                    $("div#content").html(response);
+                }
+            });
+        });
+
+    </script>
+}
+
+@section Paginate{
+    <script>
+        function loadPage(link) {
+            var page = link.getAttribute("data-page");
+            var pageSize = link.getAttribute("data-page-size");
+            var maMon = link.getAttribute("data-ma-mon");
+
+            $.ajax({
+                url: '/HocSinhDiem/GetPage',
+                data: { page: page, pageSize: pageSize, maMon: maMon },
+                success: function (data) {
+                    $('#content').html(data);
+                },
+                error: function () {
+                    alert('Có lỗi xảy ra khi tải trang.');
+                }
+            });
+        }
+
+    </script>
+} *@
+

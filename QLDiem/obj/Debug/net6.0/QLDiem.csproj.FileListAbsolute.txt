@@ -1,0 +1,2224 @@
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\appsettings.Development.json
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\appsettings.json
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.staticwebassets.runtime.json
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.exe
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.deps.json
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.runtimeconfig.json
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.pdb
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Humanizer.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.csproj.AssemblyReference.cache
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.GeneratedMSBuildEditorConfig.editorconfig
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfoInputs.cache
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfo.cs
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CoreCompileInputs.cache
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.MvcApplicationPartsAssemblyInfo.cache
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cache
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cs
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.QLDiem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.build.QLDiem.props
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QLDiem.props
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QLDiem.props
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets.pack.json
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets.build.json
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets.development.json
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\scopedcss\bundle\QLDiem.styles.css
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\scopedcss\projectbundle\QLDiem.bundle.scp.css
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CopyComplete
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\refint\QLDiem.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.pdb
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.genruntimeconfig.cache
+D:\lapTrinhWeb\QLDiem\QLDiem\obj\Debug\net6.0\ref\QLDiem.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\MessagePack.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Build.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Common.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\lapTrinhWeb\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\appsettings.Development.json
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\appsettings.json
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.staticwebassets.runtime.json
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.exe
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.deps.json
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.runtimeconfig.json
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.pdb
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Humanizer.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\MessagePack.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Build.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Common.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BaiTapLon\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.csproj.AssemblyReference.cache
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfoInputs.cache
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfo.cs
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CoreCompileInputs.cache
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.MvcApplicationPartsAssemblyInfo.cache
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cache
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cs
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.QLDiem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.build.QLDiem.props
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QLDiem.props
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QLDiem.props
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets.pack.json
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets.build.json
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets.development.json
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\scopedcss\bundle\QLDiem.styles.css
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\scopedcss\projectbundle\QLDiem.bundle.scp.css
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CopyComplete
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.dll
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\refint\QLDiem.dll
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.pdb
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.genruntimeconfig.cache
+E:\BaiTapLon\QLDiem\QLDiem\obj\Debug\net6.0\ref\QLDiem.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.csproj.AssemblyReference.cache
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.GeneratedMSBuildEditorConfig.editorconfig
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfoInputs.cache
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfo.cs
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CoreCompileInputs.cache
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.MvcApplicationPartsAssemblyInfo.cache
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cache
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cs
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\refint\QLDiem.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.pdb
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\appsettings.Development.json
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\appsettings.json
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.staticwebassets.runtime.json
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.exe
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.deps.json
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.runtimeconfig.json
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\QLDiem.pdb
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Humanizer.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\MessagePack.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Build.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Common.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.QLDiem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.build.QLDiem.props
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QLDiem.props
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QLDiem.props
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets.pack.json
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets.build.json
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\staticwebassets.development.json
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\scopedcss\bundle\QLDiem.styles.css
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\scopedcss\projectbundle\QLDiem.bundle.scp.css
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CopyComplete
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\QLDiem.genruntimeconfig.cache
+E:\SRC\src_LTW\QLDiem\QLDiem\obj\Debug\net6.0\ref\QLDiem.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\appsettings.Development.json
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\appsettings.json
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.staticwebassets.runtime.json
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.exe
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.deps.json
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.runtimeconfig.json
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.pdb
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Humanizer.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\MessagePack.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Build.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Common.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.csproj.AssemblyReference.cache
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.GeneratedMSBuildEditorConfig.editorconfig
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfoInputs.cache
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfo.cs
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CoreCompileInputs.cache
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.MvcApplicationPartsAssemblyInfo.cache
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cache
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cs
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.QLDiem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.build.QLDiem.props
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QLDiem.props
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QLDiem.props
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets.pack.json
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets.build.json
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets.development.json
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\scopedcss\bundle\QLDiem.styles.css
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\scopedcss\projectbundle\QLDiem.bundle.scp.css
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CopyComplete
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\refint\QLDiem.dll
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.pdb
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.genruntimeconfig.cache
+D:\lapTrinhWeb\QLDiem (1)\QLDiem\obj\Debug\net6.0\ref\QLDiem.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\appsettings.Development.json
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\appsettings.json
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.staticwebassets.runtime.json
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.exe
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.deps.json
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.runtimeconfig.json
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.pdb
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Humanizer.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\MessagePack.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Build.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Common.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.csproj.AssemblyReference.cache
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfoInputs.cache
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfo.cs
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CoreCompileInputs.cache
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.MvcApplicationPartsAssemblyInfo.cache
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cache
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cs
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.QLDiem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.build.QLDiem.props
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QLDiem.props
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QLDiem.props
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets.pack.json
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets.build.json
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets.development.json
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\scopedcss\bundle\QLDiem.styles.css
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\scopedcss\projectbundle\QLDiem.bundle.scp.css
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CopyComplete
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\refint\QLDiem.dll
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.pdb
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.genruntimeconfig.cache
+E:\BaiTapLon\QLDiem (1)\QLDiem\obj\Debug\net6.0\ref\QLDiem.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\appsettings.Development.json
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\appsettings.json
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.staticwebassets.runtime.json
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.exe
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.deps.json
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.runtimeconfig.json
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.pdb
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Humanizer.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\MessagePack.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Common.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.csproj.AssemblyReference.cache
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfoInputs.cache
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfo.cs
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CoreCompileInputs.cache
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cache
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cs
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.QLDiem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.build.QLDiem.props
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QLDiem.props
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QLDiem.props
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets.build.json
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets.development.json
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\scopedcss\bundle\QLDiem.styles.css
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\scopedcss\projectbundle\QLDiem.bundle.scp.css
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CopyComplete
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.dll
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\refint\QLDiem.dll
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.pdb
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.genruntimeconfig.cache
+D:\Downloads\QLDiem (1)\QLDiem\obj\Debug\net6.0\ref\QLDiem.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\appsettings.Development.json
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\appsettings.json
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.staticwebassets.runtime.json
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.exe
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.deps.json
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.runtimeconfig.json
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\QLDiem.pdb
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Humanizer.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\MessagePack.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Build.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Common.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\QLDiem (1)\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.csproj.AssemblyReference.cache
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.GeneratedMSBuildEditorConfig.editorconfig
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfoInputs.cache
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfo.cs
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CoreCompileInputs.cache
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.MvcApplicationPartsAssemblyInfo.cache
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cache
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cs
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.QLDiem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.build.QLDiem.props
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QLDiem.props
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QLDiem.props
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets.pack.json
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets.build.json
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\staticwebassets.development.json
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\scopedcss\bundle\QLDiem.styles.css
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\scopedcss\projectbundle\QLDiem.bundle.scp.css
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CopyComplete
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.dll
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\refint\QLDiem.dll
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.pdb
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\QLDiem.genruntimeconfig.cache
+E:\QLDiem (1)\QLDiem\obj\Debug\net6.0\ref\QLDiem.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\appsettings.Development.json
+E:\QLDie\QLDiem\bin\Debug\net6.0\appsettings.json
+E:\QLDie\QLDiem\bin\Debug\net6.0\QLDiem.staticwebassets.runtime.json
+E:\QLDie\QLDiem\bin\Debug\net6.0\QLDiem.exe
+E:\QLDie\QLDiem\bin\Debug\net6.0\QLDiem.deps.json
+E:\QLDie\QLDiem\bin\Debug\net6.0\QLDiem.runtimeconfig.json
+E:\QLDie\QLDiem\bin\Debug\net6.0\QLDiem.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\QLDiem.pdb
+E:\QLDie\QLDiem\bin\Debug\net6.0\Humanizer.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\MessagePack.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.Build.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\NuGet.Common.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\QLDie\QLDiem\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\QLDie\QLDiem\obj\Debug\net6.0\QLDiem.csproj.AssemblyReference.cache
+E:\QLDie\QLDiem\obj\Debug\net6.0\QLDiem.GeneratedMSBuildEditorConfig.editorconfig
+E:\QLDie\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfoInputs.cache
+E:\QLDie\QLDiem\obj\Debug\net6.0\QLDiem.AssemblyInfo.cs
+E:\QLDie\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CoreCompileInputs.cache
+E:\QLDie\QLDiem\obj\Debug\net6.0\QLDiem.MvcApplicationPartsAssemblyInfo.cache
+E:\QLDie\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cache
+E:\QLDie\QLDiem\obj\Debug\net6.0\QLDiem.RazorAssemblyInfo.cs
+E:\QLDie\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.QLDiem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\QLDie\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.build.QLDiem.props
+E:\QLDie\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QLDiem.props
+E:\QLDie\QLDiem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QLDiem.props
+E:\QLDie\QLDiem\obj\Debug\net6.0\staticwebassets.pack.json
+E:\QLDie\QLDiem\obj\Debug\net6.0\staticwebassets.build.json
+E:\QLDie\QLDiem\obj\Debug\net6.0\staticwebassets.development.json
+E:\QLDie\QLDiem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\QLDie\QLDiem\obj\Debug\net6.0\scopedcss\bundle\QLDiem.styles.css
+E:\QLDie\QLDiem\obj\Debug\net6.0\scopedcss\projectbundle\QLDiem.bundle.scp.css
+E:\QLDie\QLDiem\obj\Debug\net6.0\QLDiem.csproj.CopyComplete
+E:\QLDie\QLDiem\obj\Debug\net6.0\QLDiem.dll
+E:\QLDie\QLDiem\obj\Debug\net6.0\refint\QLDiem.dll
+E:\QLDie\QLDiem\obj\Debug\net6.0\QLDiem.pdb
+E:\QLDie\QLDiem\obj\Debug\net6.0\QLDiem.genruntimeconfig.cache
+E:\QLDie\QLDiem\obj\Debug\net6.0\ref\QLDiem.dll

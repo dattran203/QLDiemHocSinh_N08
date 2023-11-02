@@ -1,0 +1,32 @@
+﻿@model QLDiem.Models.NamHoc
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Năm học</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="NamHocId" />
+            <div class="form-group">
+                <a>Năm học</a>
+                <input asp-for="NamHoc1" class="form-control" />
+                <span asp-validation-for="NamHoc1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

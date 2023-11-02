@@ -1,0 +1,213 @@
+﻿@model IEnumerable<QLDiem.Models.HocSinhDiem>
+
+
+@{
+    ViewData["Title"] = "Quản lý điểm";
+    Layout = "~/Views/Shared/LayoutUser.cshtml";
+}
+
+<style>
+    .search-container {
+        display: flex;
+        align-items: center;
+        margin-top: 10px;
+    }
+
+    input {
+        flex: 1;
+    }
+
+</style>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <h1>Quản lý điểm</h1>
+            <h1>Lớp: @ViewBag.MaLop</h1>
+        </div>
+        <div class="col-md-6">
+            <div class="search-container">
+                <input id="search-focus" type="search" class="form-control" placeholder="Search..." />
+                <button id="search-button" class="btn btn-primary">
+                    <i class="fas fa-search"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-md-4">
+        @await Component.InvokeAsync("MonHoc")
+    </div>
+    <div class="col-md-4">
+        <select id="ddlKyHoc" class="form-control">
+            <option value="0">Chọn kỳ học (Hiển thị tất cả)</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+        </select>
+    </div>
+    <div class="col-md-4">
+        @await Component.InvokeAsync("NamHoc")
+    </div>
+</div>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div id="content">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Tên học sinh
+                </th>
+                <th>
+                    Tên môn
+                </th>
+                <th>
+                    Điểm 15p
+                </th>
+                <th>
+                    Điểm miệng
+                </th>
+                <th>
+                    Điểm 1 tiết
+                </th>
+                <th>
+                    Điểm thi giữa kỳ
+                </th>
+                <th>
+                    Điểm thi học kỳ
+                </th>
+                <th>
+                    Kỳ học
+                </th>
+                <th>
+                    Năm học
+                </th>
+                <th>
+                    Điểm trung bình môn
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody id="tblDiem">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MahocsinhNavigation.TenHs)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MamonNavigation.Tenmon)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Diem15p)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DiemMieng)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Diem1Tiet)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DiemGk)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DiemthiHk)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Kyhoc)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NamHocIDNavigation.NamHoc1)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DiemTbm)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new {@item.MahocsinhNavigation.MaHs,@item.Mamon,@item.Kyhoc}) |
+                        @Html.ActionLink("Details", "Details", new {@item.MahocsinhNavigation.MaHs,@item.Mamon,@item.Kyhoc}) |
+                        @Html.ActionLink("Delete", "Delete", new {@item.MahocsinhNavigation.MaHs,@item.Mamon,@item.Kyhoc})
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="text-center">
+    @if (ViewBag.pageCount > 1)
+    {
+        <ul class="pagination">
+            @for (int i = 1; i <= ViewBag.pageCount; i++)
+            {
+                <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                    <a class="page-link" onclick="loadPage(@i, @ViewBag.PageSize)" style="cursor:pointer">@i</a>
+                </li>
+            }
+        </ul>
+    }
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            function loadContent() {
+                var keyword = $("#search-focus").val();
+                var selectedMonHocValue = $('#ddlMonHoc').val();
+                var selectedKyHocValue = $('#ddlKyHoc').val();
+                var selectedNamHocValue = $('#ddlNamHoc').val();
+                if (keyword == "") {
+                    if (selectedMonHocValue == "0" && selectedKyHocValue == "0" && selectedNamHocValue == "0") {
+                        window.location.href = "/GiaoVienDiem/Index";
+                    } else {
+                        $.ajax({
+                            url: "/GiaoVienDiem/DiemByDuLieu",
+                            data: { monHocId: selectedMonHocValue, kyHocId: selectedKyHocValue, namHocId: selectedNamHocValue },
+                            success: function (response) {
+                                $("div#content").html(response);
+                            }
+                        });
+                    }
+                }
+                else {
+                    $.ajax({
+                        url: "/GiaoVienDiem/Search",
+                        type: "POST",
+                        data: { keyword: keyword, monHocId: selectedMonHocValue, kyHocId: selectedKyHocValue, namHocId: selectedNamHocValue },
+                        success: function (response) {
+                            $("div#content").html(response);
+                        }
+                    });
+                }
+            }
+            $('#ddlMonHoc, #ddlKyHoc, #ddlNamHoc').change(function () {
+                loadContent();
+            });
+            $("#search-button").click(function () {
+                loadContent();
+            });
+        });
+
+    </script>
+}
+
+
+@section Paginate{
+    <script>
+        function loadPage(page, pageSize) {
+            $.ajax({
+                url: '/GiaoVienDiem/GetPage',
+                data: { page: page, pageSize: pageSize },
+                success: function (data) {
+                    $('#content').html(data);
+
+
+                },
+                error: function () {
+                    alert('Có lỗi xảy ra khi tải trang.');
+                }
+            });
+        }
+    </script>
+}

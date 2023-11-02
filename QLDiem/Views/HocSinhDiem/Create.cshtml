@@ -1,0 +1,75 @@
+﻿@model QLDiem.Models.HocSinhDiem
+
+@{
+    ViewData["Title"] = "Quản lý điểm";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+<h1>Create</h1>
+
+<h4>HocSinhDiem</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <div class="form-group">
+                    <a>Mã học sinh</a>
+                    <select asp-for="Mahocsinh" class="form-control" asp-items="ViewBag.Mahocsinh"></select>
+                </div>
+
+            </div>
+            <div class="form-group">
+                <a>Kỳ học</a>
+                <select asp-for="Kyhoc" class="form-control">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <a>Mã môn</a>
+                <select asp-for="Mamon" class="form-control" asp-items="ViewBag.Mamon"></select>
+            </div>
+            <div class="form-group">
+                <a>Năm học</a>
+                <select asp-for="NamHocID" class="form-control" asp-items="ViewBag.NamHocID"></select>
+            </div>
+            <div class="form-group">
+                <a>Điểm 15p</a>
+                <input asp-for="Diem15p" class="form-control" />
+                <span asp-validation-for="Diem15p" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Điểm miệng</a>
+                <input asp-for="DiemMieng" class="form-control" />
+                <span asp-validation-for="DiemMieng" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Điểm 1 tiết</a>
+                <input asp-for="Diem1Tiet" class="form-control" />
+                <span asp-validation-for="Diem1Tiet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Điểm giữa kỳ</a>
+                <input asp-for="DiemGk" class="form-control" />
+                <span asp-validation-for="DiemGk" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Điểm học kỳ</a>
+                <input asp-for="DiemthiHk" class="form-control" />
+                <span asp-validation-for="DiemthiHk" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

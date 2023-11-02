@@ -1,0 +1,123 @@
+﻿@model IEnumerable<QLDiem.Models.HocSinh>
+@{
+    ViewData["Title"] = "Quản lý học sinh";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+
+<h1>Quản lý học sinh</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div id="content">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Tên học sinh
+                </th>
+                <th>
+                    Ngày sinh
+                </th>
+                <th>
+                    Giới tính
+                </th>
+                <th>
+                    Họ tên bố
+                </th>
+                <th>
+                    Họ tên mẹ
+                </th>
+                <th>
+                    Địa chỉ
+                </th>
+                <th>
+                    Điện thoại
+                </th>
+                <th>
+                    Ngày vào đoàn
+                </th>
+                <th>
+                    Ghi chú
+                </th>
+                <th>
+                    Lớp
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TenHs)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Ngaysinh)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Gioitinh)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.HotenBo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.HotenMe)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Diachi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Dienthoai)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NgayvaoDoan)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Ghichu)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MalopNavigation.Malop)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.MaHs">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.MaHs">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.MaHs">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="text-center">
+    @if (ViewBag.pageCount > 1)
+    {
+        <ul class="pagination">
+            @for (int i = 1; i <= ViewBag.pageCount; i++)
+            {
+                <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                    <a class="page-link" onclick="loadPage(@i, @ViewBag.PageSize)" style="cursor:pointer">@i</a>
+                </li>
+            }
+        </ul>
+    }
+</div>
+@section Paginate{
+    <script>
+        function loadPage(page, pageSize) {
+            $.ajax({
+                url: '/HocSinh/GetPage',
+                data: { page: page, pageSize: pageSize },
+                success: function (data) {
+                    $('#content').html(data);
+
+
+                },
+                error: function () {
+                    alert('Có lỗi xảy ra khi tải trang.');
+                }
+            });
+        }
+    </script>
+}

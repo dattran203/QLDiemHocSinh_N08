@@ -1,0 +1,40 @@
+﻿@model IEnumerable<QLDiem.Models.NamHoc>
+
+@{
+    ViewData["Title"] = "Quản lý năm học";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+
+<h1>Quản lý năm học</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Mã năm học
+            </th>
+            <th>
+                Năm học
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                 @Html.DisplayFor(modelItem => item.NamHocId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NamHoc1)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.NamHocId">Edit</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

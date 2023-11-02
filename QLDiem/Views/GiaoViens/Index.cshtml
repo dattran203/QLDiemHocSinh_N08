@@ -1,0 +1,67 @@
+﻿@model IEnumerable<QLDiem.Models.GiaoVien>
+
+@{
+    ViewData["Title"] = "Quản lý giáo viên";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+
+}
+<h1>
+    Quản lý giáo viên
+</h1>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên giáo viên
+            </th>
+            <th>
+                Ngày sinh
+            </th>
+            <th>
+                Giới tính
+            </th>
+            <th>
+                Địa chỉ
+            </th>
+            <th>
+                Điện thoại
+            </th>
+            <th>
+                Mã môn
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenGv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngaysinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gioitinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Diachi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dienthoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaMonNavigation.Mamon)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MaGv">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaGv">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaGv">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

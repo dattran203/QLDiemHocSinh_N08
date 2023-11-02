@@ -1,0 +1,40 @@
+﻿@model IEnumerable<QLDiem.Models.MonHoc>
+
+@{
+    ViewData["Title"] = "Quản lý môn học";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+
+<h1>Quản lý môn học</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Mã môn
+            </th>
+            <th>
+                Tên môn
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Mamon)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tenmon)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Mamon">Edit</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

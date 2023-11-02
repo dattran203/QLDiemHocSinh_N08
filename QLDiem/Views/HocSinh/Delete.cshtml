@@ -1,0 +1,83 @@
+﻿@model QLDiem.Models.HocSinh
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+
+}
+
+<h1>Delete</h1>
+
+<h3>Bạn có chắc chắn muốn xóa học sinh này?</h3>
+<div>
+    <h4>HocSinh</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            Tên học sinh
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenHs)
+        </dd>
+        <dt class = "col-sm-2">
+            Ngày sinh
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Ngaysinh)
+        </dd>
+        <dt class = "col-sm-2">
+            Giới tính
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Gioitinh)
+        </dd>
+        <dt class = "col-sm-2">
+            Họ tên bố
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HotenBo)
+        </dd>
+        <dt class = "col-sm-2">
+            Họ tên mẹ
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HotenMe)
+        </dd>
+        <dt class = "col-sm-2">
+            Địa chỉ
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Diachi)
+        </dd>
+        <dt class = "col-sm-2">
+            Điện thoại
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dienthoai)
+        </dd>
+        <dt class = "col-sm-2">
+            Ngày vào đoàn
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NgayvaoDoan)
+        </dd>
+        <dt class = "col-sm-2">
+            Ghi chú
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Ghichu)
+        </dd>
+        <dt class = "col-sm-2">
+            Lớp
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MalopNavigation.Malop)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="MaHs" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

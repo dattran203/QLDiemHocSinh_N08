@@ -1,0 +1,65 @@
+﻿@model QLDiem.Models.HocSinhDiem
+
+
+@{
+    ViewData["Title"] = "Quản lý điểm";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>HocSinhDiem</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Mahocsinh" />
+            <input type="hidden" asp-for="Kyhoc" />
+            <input type="hidden" asp-for="Mamon" />
+            <div class="form-group">
+                <a>Năm học</a>
+                <input asp-for="NamHocID" class="form-control" />
+                <span asp-validation-for="NamHocID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Điểm 15p</a>
+                <input asp-for="Diem15p" class="form-control" />
+                <span asp-validation-for="Diem15p" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Điểm miệng</a>
+                <input asp-for="DiemMieng" class="form-control" />
+                <span asp-validation-for="DiemMieng" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Điểm 1 tiết</a>
+                <input asp-for="Diem1Tiet" class="form-control" />
+                <span asp-validation-for="Diem1Tiet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Điểm giữa kì</a>
+                <input asp-for="DiemGk" class="form-control" />
+                <span asp-validation-for="DiemGk" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a>Điểm học kì</a>
+                <input asp-for="DiemthiHk" class="form-control" />
+                <span asp-validation-for="DiemthiHk" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

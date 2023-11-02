@@ -1,0 +1,8 @@
+﻿@model IEnumerable<NamHoc>
+<select id="ddlNamHoc" class="form-control">
+    <option value="0">Chọn năm học (Hiển thị tất cả)</option>
+    @foreach (var m in Model)
+    {
+        <option value="@m.NamHocId">@m.NamHoc1</option>
+    }
+</select>

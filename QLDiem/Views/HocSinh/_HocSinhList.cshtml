@@ -1,0 +1,87 @@
+﻿@{
+    ViewBag.CurrentPage = ViewBag.CurrentPage; // Truyền giá trị ViewBag.CurrentPage vào PartialView
+}
+@model IEnumerable<QLDiem.Models.HocSinh>
+@{
+    ViewData["Title"] = "Quản lý học sinh";
+
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên học sinh
+            </th>
+            <th>
+                Ngày sinh
+            </th>
+            <th>
+                Giới tính
+            </th>
+            <th>
+                Họ tên bố
+            </th>
+            <th>
+                Họ tên mẹ
+            </th>
+            <th>
+                Địa chỉ
+            </th>
+            <th>
+                Điện thoại
+            </th>
+            <th>
+                Ngày vào đoàn
+            </th>
+            <th>
+                Ghi chú
+            </th>
+            <th>
+                Lớp
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenHs)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ngaysinh)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gioitinh)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HotenBo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HotenMe)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Diachi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Dienthoai)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NgayvaoDoan)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ghichu)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MalopNavigation.Malop)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.MaHs">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.MaHs">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.MaHs">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
